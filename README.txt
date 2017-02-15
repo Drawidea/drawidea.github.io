@@ -1,19 +1,16 @@
-Telephasic by HTML5 UP
+Directive by HTML5 UP
 html5up.net | @ajlkn
 Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 
 
-This is Telephasic, a brand new site template for HTML5 UP. It features a sharp, modern
-design inspired by omfg everything, and makes good use of SVGs to ensure stuff looks
-nice and crispy on retina displays.
+A simple single pager built around an angular motif (powered by SVG awesomeness).
+Should work great for a landing page. Also includes default styling for a bunch of
+standard page elements (uncomment the huge block of commented-out HTML to see it).
 
-Demo images* are courtesy of Felicia Simion, an amazing photographer with an
-incredible portfolio over at deviantART:
+Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
+you can use for pretty much whatever.
 
-http://ineedchemicalx.deviantart.com/
-
-(* = Not included! Only meant for use with my own on-site demo, so please do NOT download
-and/or use any of Felicia's work without her explicit permission!)
+(* = Not included)
 
 Feedback, bug reports, and comments are not only welcome, but strongly encouraged :)
 
@@ -26,7 +23,7 @@ PS: Not sure how to get that contact form working? Give formspree.io a try (it's
 Credits:
 
 	Demo Images:
-		Felicia Simion (ineedchemicalx.deviantart.com)
+		Unsplash (unsplash.com)
 
 	Icons:
 		Font Awesome (fortawesome.github.com/Font-Awesome)
@@ -37,5 +34,4 @@ Credits:
 		CSS3 Pie (css3pie.com)
 		background-size polyfill (github.com/louisremi)
 		Respond.js (j.mp/respondjs)
-		jquery.dropotron (@ajlkn)
 		Skel (skel.io)
